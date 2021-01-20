@@ -1,8 +1,5 @@
 ## &#x1f4c8; GitHub Stats
 
-<img height="100" align="left" src="https://github-readme-stats.vercel.app/api?username=AnastasPetrenski&them=merko&show_icons=true" />
-<img height="100" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnastasPetrenski&layout=compact" />
-
 <!--
 **AnastasPetrenski/AnastasPetrenski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ### Hi there 👋
