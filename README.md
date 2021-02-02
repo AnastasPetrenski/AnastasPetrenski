@@ -1,7 +1,7 @@
 ## &#x1f4c8; GitHub Stats
 
-<img height="135" align="left" src="https://github-readme-stats.vercel.app/api?username=AnastasPetrenski&show_icons=true&theme=merko" />
-<img height="140" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnastasPetrenski&layout=compact&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+<img height="130" align="left" src="https://github-readme-stats.vercel.app/api?username=AnastasPetrenski&show_icons=true&theme=merko" />
+<img height="130" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnastasPetrenski&layout=compact&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 
 | :horse: About me | 🎓 Certificates | :octocat: | :computer: Skills|
 | :-: | :-: | :-: | :-:|
